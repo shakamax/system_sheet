@@ -95,7 +95,6 @@ code {
     0% 15%     /* curva superior esquerda */
   );
 
-
   clip-path: polygon(
     0% 0%,     /* canto superior esquerdo mais estreito */
     85% 0%,    /* topo antes da “ponta” */
@@ -112,6 +111,29 @@ code {
     0 0 10px #00ffff66, 
     0 0 20px #00ffff33,
     inset 4px -1px 5px #00ffff55;
+
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.cyberinput-normal {
+  width: 100%;
+  /* border-radius: 2px; */
+  background-color: #0000007d;
+  padding: 1px;
+  color: #e0e0e0;
+  display: grid;
+  align-content: center;
+  justify-items: left;
+  align-items: center;
+  text-align: center;
+  padding-inline: 1em;
+  border: 1px solid #23f8ff6c;
+
+  box-shadow:
+  0 0 5px #00ffff88,
+  0 0 10px #00ffff66, 
+  0 0 20px #00ffff33,
+  inset 4px -1px 5px #00ffff55;
 
   transition: box-shadow 0.3s ease-in-out;
 }
@@ -156,6 +178,20 @@ code {
 
 .chipset-input:hover{
   border: #fff;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  /* -webkit-appearance: none;
+  cursor: pointer; */
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-end {
+    text-align: end;
 }
 
 /* .btn-cyber {

@@ -1,11 +1,15 @@
 <!-- HEALTH -->
 <!-- HEALTH -->
 <!-- HEALTH -->
-<div>
-    <h2>Vida</h2>
-    <div>
-        <input type="number" value={health.currentHealth} />
-        <input type="number" value={health.totalHealth} />
+<div class="row">
+    <h2 class="text-center">Status&nbsp;&nbsp;&nbsp;</h2>
+    <div class="row">
+        <div class="col text-end">
+            <input type="number" class="chipset-input" />
+        </div>
+        <div class="col">
+            <input type="number" class="chipset-input" />
+        </div>
     </div>  
 </div>
 <!-- HEALTH -->
@@ -14,13 +18,16 @@
 <hr/>
 <!-- WILLPOWER -->
 <!-- WILLPOWER -->
-<div>
-    <h2>Força de Vontade</h2>
-    <div>
-        <input type="number"/>
-        <input type="number"/>
+ <div class="row">
+    <h2 class="text-center">Força de Vontade</h2>
+    <div class="row">
+        <div class="col text-end">
+            <input type="number" class="chipset-input" />
+        </div>
+        <div class="col">
+            <input type="number" class="chipset-input" />
+        </div>
     </div>  
-    
 </div>
 <!-- WILLPOWER -->
 <!-- WILLPOWER -->
@@ -29,13 +36,16 @@
 <!-- HUMANIDADE -->
 <!-- HUMANIDADE -->
 <!-- HUMANIDADE -->
-    <div>
-    <h2>Humanidade</h2>
-    <div>
-        <input type="number" />
-        <input type="number" />
+ <div class="row">
+    <h2 class="text-center">Humanidade</h2>
+    <div class="row">
+        <div class="col text-end">
+            <input type="number" class="chipset-input" />
+        </div>
+        <div class="col">
+            <input type="number" class="chipset-input" />
+        </div>
     </div>  
-    
 </div>
 <!-- HUMANIDADE -->
 <!-- HUMANIDADE -->

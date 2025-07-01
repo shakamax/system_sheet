@@ -1,28 +1,57 @@
 <div>
-    <div>
-        <label>Tamanho: </label>
-        <input class="cyberinput" type="number" />
+    <div class="row">
+        <div class="col">
+            <label>Tamanho: </label>
+        </div>
+        <div class="col-6">
+            <input class="cyberinput" type="number" />
+        </div>
     </div>  
-    <div>
-        <label>Velocidade: </label>
-        <input type="number" />
-    </div>
-    <div>
-        <label>Defesa: </label>
-        <input type="number" />
-    </div>
-    <div>
-        <label>Blindagem: </label>
-        <input type="number" />
-    </div>
-    <div>
-        <label>Iniciativa: </label>
-        <input type="number" />
+    <div class="row">
+        <div class="col">
+            <label>Velocidade: </label>
+        </div>
+        <div class="col-6">
+            <input type="number" class="cyberinput" />
+        </div>
     </div>
     <div class="row">
-        <label class="col-4">Experiência: </label>
-        <input class="col-4" type="number" />
-        <input class="col-4" type="number" />
+        <div class="col">
+            <label>Defesa: </label>
+        </div>
+        <div class="col-6">
+            <input type="number" class="cyberinput" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <label>Blindagem: </label>
+        </div>
+        <div class="col-6">
+            <input type="number" class="cyberinput" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <label>Iniciativa: </label>
+        </div>
+        <div class="col-6">
+            <input type="number" class="cyberinput" />
+        </div>
+    </div>
+    <div>
+        <div class="row">
+            <div class="col">
+                <label class="col">Exp: </label>
+            </div>
+            <div class="col">
+                <label for="" class="col">Max Exp :</label>
+            </div>
+        </div>
+        <div class="row">
+            <input type="number" class="cyberinput col"/>
+            <input type="number" class="cyberinput col"/>
+        </div>
     </div>
 
 </div>

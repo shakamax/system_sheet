@@ -22,7 +22,6 @@
             <div class="input-row">
                 <label>Vicio: </label>
                 <input class="cyberinput" type="Text"  />
-                
             </div>
         </div>
         <div>

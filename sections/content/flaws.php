@@ -1,23 +1,26 @@
-<div>
-    <h2>Defeitos</h2>
+<div class="row">
     <div class="col-7">
-        <input class="col-6" type="text" />
-        <input class="col-6" type="number" />
-    </div>  
-    <div class="col-7">
-        <input class="col-6" type="text" />
-        <input class="col-6" type="number" />
-    </div>  
-    <div class="col-7">
-        <input class="col-6" type="text" />
-        <input class="col-6" type="number" />
-    </div>  
-    <div class="col-7">
-        <input class="col-6" type="text" />
-        <input class="col-6" type="number" />
-    </div>  
-    <div class="col-7">
-        <input class="col-6" type="text" />
-        <input class="col-6" type="number" />
-    </div>  
+
+        <h2>Defeitos</h2>
+        <div class="row">
+            <input class="cyberinput col" type="text" />
+            <input class="cyberinput col" type="number" />
+        </div>  
+        <div class="row">
+            <input class="cyberinput col" type="text" />
+            <input class="cyberinput col" type="number" />
+        </div>  
+        <div class="row">
+            <input class="cyberinput col" type="text" />
+            <input class="cyberinput col" type="number" />
+        </div>  
+        <div class="row">
+            <input class="cyberinput col" type="text" />
+            <input class="cyberinput col" type="number" />
+        </div>  
+        <div class="row">
+            <input class="cyberinput col" type="text" />
+            <input class="cyberinput col" type="number" />
+        </div>  
+    </div>
 </div>

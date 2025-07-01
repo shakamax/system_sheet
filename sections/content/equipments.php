@@ -4,7 +4,7 @@
         <div class="col-4">
             <h5>Equipamento</h5>
         </div>
-        <div class="col-2">
+        <div class="col-3">
             <h5>Durabilidade</h5>
         </div>
         <div class="col-2">
@@ -15,28 +15,60 @@
         </div>
     </div>
     <div class="row">
-        <input class="col-4" type="text" />
-        <input class="col-2" type="number" />
-        <input class="col-2" type="number" />
-        <input class="col-2" type="number" />
+        <div class="col-4">
+            <input class="cyberinput-normal" type="text" />
+        </div>
+        <div class="col-3">
+            <input class="cyberinput-normal" type="number" />
+        </div>
+        <div class="col-2">
+            <input class="cyberinput-normal" type="number" />
+        </div>
+        <div class="col-2">
+            <input class="cyberinput" type="number" />
+        </div>
     </div>
     <div class="row">
-        <input class="col-4" type="text" />
-        <input class="col-2" type="number" />
-        <input class="col-2" type="number" />
-        <input class="col-2" type="number" />
+        <div class="col-4">
+            <input class="cyberinput-normal" type="text" />
+        </div>
+        <div class="col-3">
+            <input class="cyberinput-normal" type="number" />
+        </div>
+        <div class="col-2">
+            <input class="cyberinput-normal" type="number" />
+        </div>
+        <div class="col-2">
+            <input class="cyberinput" type="number" />
+        </div>
     </div>
     <div class="row">
-        <input class="col-4" type="text" />
-        <input class="col-2" type="number" />
-        <input class="col-2" type="number" />
-        <input class="col-2" type="number" />
+        <div class="col-4">
+            <input class="cyberinput-normal" type="text" />
+        </div>
+        <div class="col-3">
+            <input class="cyberinput-normal" type="number" />
+        </div>
+        <div class="col-2">
+            <input class="cyberinput-normal" type="number" />
+        </div>
+        <div class="col-2">
+            <input class="cyberinput" type="number" />
+        </div>
     </div>
     <div class="row">
-        <input class="col-4" type="text" />
-        <input class="col-2" type="number" />
-        <input class="col-2" type="number" />
-        <input class="col-2" type="number" />
+        <div class="col-4">
+            <input class="cyberinput-normal" type="text" />
+        </div>
+        <div class="col-3">
+            <input class="cyberinput-normal" type="number" />
+        </div>
+        <div class="col-2">
+            <input class="cyberinput-normal" type="number" />
+        </div>
+        <div class="col-2">
+            <input class="cyberinput" type="number" />
+        </div>
     </div>
 
 </div>
