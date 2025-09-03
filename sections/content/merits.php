@@ -56,6 +56,7 @@
         <input class="cyberinput col" type="text" />
         <input class="cyberinput col" type="number" />
     </div>
+    <h2>Cyberware</h2>
     <div class="row">
         <input class="cyberinput col" type="text" />
         <input class="cyberinput col" type="number" />
@@ -68,5 +69,29 @@
         <input class="cyberinput col" type="text" />
         <input class="cyberinput col" type="number" />
     </div>  
-
+    <div class="row">
+        <input class="cyberinput col" type="text" />
+        <input class="cyberinput col" type="number" />
+    </div>
+    <div class="row">
+        <input class="cyberinput col" type="text" />
+        <input class="cyberinput col" type="number" />
+    </div>  
+    <div class="row">
+        <input class="cyberinput col" type="text" />
+        <input class="cyberinput col" type="number" />
+    </div>  
+    <div class="row">
+        <input class="cyberinput col" type="text" />
+        <input class="cyberinput col" type="number" />
+    </div>
+    <div class="row">
+        <input class="cyberinput col" type="text" />
+        <input class="cyberinput col" type="number" />
+    </div>
+    <div class="row">
+        <input class="cyberinput col" type="text" />
+        <input class="cyberinput col" type="number" />
+    </div>
+    
 </div>

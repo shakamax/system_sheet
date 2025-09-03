@@ -1,4 +1,4 @@
-<div>
+<div class="text-end">
     <h2 class="text-center topHeader">Habilidades</h2>
     <div>
         <h2>Mental</h2>
@@ -44,7 +44,7 @@
         </div>
         <div class="row">
             <div class="col">
-                <label>Oculto: </label>
+                <label>Lendas: </label>
             </div>
             <div class="col-6">
                 <input type="number" class="cyberinput" />
@@ -87,7 +87,7 @@
         </div>
         <div class="row">
             <div class="col">
-                <label>Direção: </label>
+                <label>Pilotagem: </label>
             </div>
             <div class="col-6">
                 <input type="number" class="cyberinput"  />
@@ -138,7 +138,7 @@
         <h2>Social</h2>
         <div class="row">
             <div class="col">
-                <label>Trato com animais: </label>
+                <label>Animais: </label>
             </div>
             <div class="col-6">
                 <input type="number" class="cyberinput" />
@@ -186,7 +186,7 @@
         </div>
         <div class="row">
             <div class="col">
-                <label>Manha: </label>
+                <label>Urbana: </label>
             </div>
             <div class="col-6">
                 <input type="number" class="cyberinput" />

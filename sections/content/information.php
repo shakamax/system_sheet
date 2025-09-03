@@ -20,20 +20,20 @@
     <div class="col-4">
         <div>
             <div class="input-row">
-                <label>Vicio: </label>
+                <label>Âncora: </label>
                 <input class="cyberinput" type="Text"  />
             </div>
         </div>
         <div>
             <div class="input-row">
-            <label>Virtude: </label>
+            <label>Fissura: </label>
             <input class="cyberinput" type="Text"  />
 
             </div>
         </div>
         <div>
             <div class="input-row">
-                <label>Conceito: </label>
+                <label>Dívida: </label>
                 <input class="cyberinput" type="Text"  />
 
             </div>
@@ -44,7 +44,6 @@
             <div class="input-row">
                 <label>Idade: </label>
                 <input class="cyberinput" type="Text"  />
-
             </div>
         </div>
         <div>
@@ -58,7 +57,6 @@
             <div class="input-row">
                 <label>Grupo: </label>
                 <input class="cyberinput" type="Text"  />
-
             </div>
         </div>
     </div>
